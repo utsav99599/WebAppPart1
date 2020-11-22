@@ -8,6 +8,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 ![postman](screenshots/postman.JPG)
 
-# SQL Data Screenshot
+# Query Screenshot
 
 ![Query](screenshots/Query.JPG)
