@@ -1,3 +1,4 @@
+# WebAppPart1
 # Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flash, MySQL
 
@@ -5,3 +6,4 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![postman request output](screenshots/postman.jpg)
 
 # SQL Data Screenshot
+![Query request output](screenshots/Query.jpg)
